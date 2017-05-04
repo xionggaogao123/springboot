@@ -1,0 +1,16 @@
+
+server:
+    port:8080
+    address:localhost
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/user?useUnicode=true&characterEncoding=UTF8
+    username: root
+    password:
+
+mybatis:
+    typeAliasesPackage:   io.terminus.user.model
+    mapperLocations: classpath:/com/modou/**/mapper/*.xml
+    configLocation: classpath:/mybatis-config.xml
