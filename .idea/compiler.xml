@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test-user" />
+        <module name="test-user-api" />
+        <module name="test-user-commom" />
+        <module name="test-user-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="iotermiustest" target="1.7" />
+      <module name="test-user" target="1.7" />
+      <module name="test-user-api" target="1.7" />
+      <module name="test-user-commom" target="1.7" />
+      <module name="test-user-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iotermiustest.iml" filepath="$PROJECT_DIR$/iotermiustest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-user/test-user.iml" filepath="$PROJECT_DIR$/test-user/test-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-user-api/test-user-api.iml" filepath="$PROJECT_DIR$/test-user-api/test-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-user-commom/test-user-commom.iml" filepath="$PROJECT_DIR$/test-user-commom/test-user-commom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-user-web/test-user-web.iml" filepath="$PROJECT_DIR$/test-user-web/test-user-web.iml" />
+    </modules>
+  </component>
+</project>
